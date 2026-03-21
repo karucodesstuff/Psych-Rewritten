@@ -1,4 +1,4 @@
-# Psych-Rewritten
+# Psych-Infinite
 Engine originally used on Mind Games mod
 
 ----------------------------------------
